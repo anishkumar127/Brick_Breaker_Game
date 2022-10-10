@@ -10,4 +10,4 @@
 ### Game Over
 ![Brick Breaker Game](/assets/image/over%20game.png "Brick Breaker Game Preview")
 
-<img src="assets/image/game.png" width="550" height="324">
+<img src="assets/image/game.png" width="800" height="500">
