@@ -1,5 +1,5 @@
 ## Preview
-
+![Brick Breaker Game](/assets/image/over game.png "Brick Breaker Game Preview")
 ### First Look
 ![Brick Breaker Game](/assets/image/game.png "Brick Breaker Game Preview")
 
@@ -8,4 +8,3 @@
 
 
 ### Game Over
-![Brick Breaker Game](/assets/image/over game.png "Brick Breaker Game Preview")
