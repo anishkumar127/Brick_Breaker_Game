@@ -12,7 +12,7 @@ A Brick Breaker Game in Java consists of bricks aligned at the top of the screen
 
 ### Game Over
 
-<img src="assets/image/over game.png" width="850" height="600" alt="Brick Breaker Game Preview">
+<img src="assets/image/over game.png" width="800" height="600" alt="Brick Breaker Game Preview">
 
 
 <!---
