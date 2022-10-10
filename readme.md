@@ -1,13 +1,18 @@
 ## Preview
 
 ### First Look
-![Brick Breaker Game](/assets/image/game.png "Brick Breaker Game Preview")
+
+<img src="assets/image/game.png" width="800" height="500" alt="Brick Breaker Game Preview">
+[//]: # (![Brick Breaker Game]&#40;/assets/image/game.png "Brick Breaker Game Preview"&#41;)
 
 ### Started Game
-![Brick Breaker Game](/assets/image/play%20game.png "Brick Breaker Game Preview")
+
+<img src="assets/image/play%20game.png" width="800" height="500" alt="Brick Breaker Game Preview">
+[//]: # (![Brick Breaker Game]&#40;/assets/image/play%20game.png "Brick Breaker Game Preview"&#41;)
 
 
 ### Game Over
-![Brick Breaker Game](/assets/image/over%20game.png "Brick Breaker Game Preview")
 
-<img src="assets/image/game.png" width="800" height="500">
+<img src="assets/image/over%20game.png" width="800" height="500" alt="Brick Breaker Game Preview">
+[//]: # (![Brick Breaker Game]&#40;/assets/image/over%20game.png "Brick Breaker Game Preview"&#41;)
+
